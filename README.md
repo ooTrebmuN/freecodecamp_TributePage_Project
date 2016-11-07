@@ -1,7 +1,7 @@
 # freecodecamp_TributePage_Project
 
 We All Bleed The Same Blood is a tribute page for Veterans of this great nation. 
-It is to remind us all that no matter what your race, gender or religious beliefs we all fight for Freedom.
+It is to remind us all that no matter what your race, gender or religious beliefs are, we all fight for Freedom.
 
 We are all family.
 
